@@ -11,4 +11,8 @@ public class HmctLog {
     public static void d(String tag, String msg) {
         Log.d(TAG, "[" + tag + "]----" + msg);
     }
+
+    public static void d(String tag, String msg, Throwable e) {
+        Log.d(TAG, "[" + tag + "]----" + msg, e);
+    }
 }
