@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">时间转换工具</string>
+    <string name="str_unix_time_title">Unix时间戳</string>
+    <string name="str_time_unit_ms">毫秒</string>
+    <string name="str_time_unit_s">秒</string>
+    <string name="str_calc">转换</string>
+    <string name="str_date_string">当前时间</string>
+    <string name="str_unit_time_string">毫秒时间</string>
+    <string name="str_time_format">时间格式为：yyyy-MM-dd HH:mm:ss \n（或yyyy/MM/dd HH:mm:ss）</string>
+    <string name="str_date_title">时间：</string>
+</resources>
